@@ -20,10 +20,11 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in mobil
 - 🔤 **Feni2Bangla Translator** – Deep learning-based dialect translator using LSTM/Bi-LSTM
 - 🧩 **Custom RISC-V Extension** – Adding custom instruction and testing performance on Spike/QEMU
 - 🎨 **Portfolio App in Flutter** – Personal app with animations and visualizations
-
+- 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Mehraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MehrajHossainMahi14&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MehrajHossainMahi14&layout=compact&theme=radical)
 
 ## 📫 Get in Touch
 
